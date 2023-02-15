@@ -2,6 +2,7 @@
 ## Machine Learning for Cyber Security
 
 ### Topic Proposal
+ Due 02/22/23 
 
 #### Rubric
 
@@ -21,10 +22,10 @@
 
 - [ ]  Write Proposal
 
-- [ ]	Create Outline
+	- [ ]	Create Outline
 
-- [ ]	Write Draft
+	- [ ]	Write Draft
 
-- [ ]	Peer Review Draft, Finalize
+	- [ ]	Peer Review Draft, Finalize
 	
 - [ ]  Submit 
