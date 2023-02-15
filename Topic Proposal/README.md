@@ -15,10 +15,14 @@
 
 ### Tasks
 
-- [ ]  Select Topic
+- [X]  Select Topic
 
 - [ ]  Receive Topic Approval by Instructor
 
+	- [X]	Approval Requested
+
+	- [ ]	Approval Granted
+	
 - [ ]  Write Proposal
 
 	- [ ]	Create Outline
