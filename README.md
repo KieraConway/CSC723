@@ -10,7 +10,7 @@
 > All team members MUST submit
 <br><br>
 
-- [ ] <b> Due 02/22/23 &emsp;|&emsp; [Topic Proposal](https://github.com/KieraConway/CSC723/TopicProposal)<br> </b>
+- [ ] <b> Due 02/22/23 &emsp;|&emsp; [Topic Proposal](https://github.com/KieraConway/CSC723/tree/main/Topic%20Proposal)<br> </b>
 
 > pick a topic for the term project and briefly describe the project 
 > topic and its rationale
