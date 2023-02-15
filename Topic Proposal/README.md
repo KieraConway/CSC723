@@ -2,7 +2,7 @@
 ## Machine Learning for Cyber Security
 
 ### Topic Proposal
- Due 02/22/23 
+*Due 02/22/23* 
 
 #### Rubric
 
