@@ -1,5 +1,6 @@
-# Topic Proposal
-*Due: Wednesday, February 22, 2023*
+
+<h1 align="center">Topic Proposal</h1>
+<p align="center"><i>Due: Wednesday, February 22, 2023</i></p>
 
 ----
 
