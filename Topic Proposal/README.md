@@ -1,9 +1,9 @@
 # CSC 723
-## Machine Learning for Cyber Security
+Machine Learning for Cyber Security
 
-### Topic Proposal
+## Topic Proposal
 
-#### Rubric
+### Rubric
 
 - Briefly describe term project topic and its rationale including the methods, tools, and datasets that will be utilized
 
@@ -12,9 +12,7 @@
 
 - All team members MUST submit the proposal by Wednesday, February 22, 2023
 
-------------
-
-#### Tasks
+### Tasks
 
 - [ ]  Select Topic
 
