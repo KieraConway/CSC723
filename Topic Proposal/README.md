@@ -2,7 +2,6 @@
 ## Machine Learning for Cyber Security
 
 ### Topic Proposal
-*Due 02/22/23* 
 
 #### Rubric
 
@@ -11,8 +10,9 @@
 - single-page draft proposal [use template]
 - 500-600 words (excluding references) 
 
-- All team members MUST submit the proposal
+- All team members MUST submit the proposal by Wednesday, February 22, 2023
 
+------------
 
 #### Tasks
 
