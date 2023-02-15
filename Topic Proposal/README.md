@@ -20,10 +20,11 @@
 - []  Receive Topic Approval by Instructor
 
 - []  Write Proposal
-	- []	Create Outline
 
-	- []	Write Draft
+- []	Create Outline
 
-	- []	Peer Review Draft, Finalize
+- []	Write Draft
+
+- []	Peer Review Draft, Finalize
 	
 - []  Submit 
