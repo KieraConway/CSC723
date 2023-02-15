@@ -15,15 +15,15 @@
 
 #### Tasks
 
-- []	Select Topic
+- []  Select Topic
 
-- []	Receive Topic Approval by Instructor
+- []  Receive Topic Approval by Instructor
 
-- []	Write Proposal
+- []  Write Proposal
 	- []	Create Outline
 
 	- []	Write Draft
 
 	- []	Peer Review Draft, Finalize
 	
-- []	Submit 
+- []  Submit 
