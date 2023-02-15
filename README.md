@@ -1,5 +1,5 @@
-# CSC 723
-## Machine Learning for Cyber Security
+<h1 align="center">CSC 723</h1>
+<h3 align="center">Machine Learning for Cyber Security</h3>
 
 Project List
 
