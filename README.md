@@ -22,7 +22,7 @@
 <br><br>
 
 
-- [ ] <b> Due 04/26/23 &emsp;|&emsp; [Project Presentation](https://github.com/KieraConway/CSC723/tree/main/Project%20Presentation)<br> </b>
+- [ ] <b> Due 04/26/23 &emsp;|&emsp; Project Presentation </b>
 
 > make a PowerPoint and record a presentation of it
 > 
@@ -32,7 +32,8 @@
 > *All team members MUST submit PowerPoint and recording*
 <br><br>
 
-- [ ] <b> Due 05/05/23 &emsp;|&emsp; [Project Report](https://github.com/KieraConway/CSC723/tree/main/Project%20Report)<br> </b>
+
+- [ ] <b> Due 05/05/23 &emsp;|&emsp; Project Report </b>
 
 > write and submit the final technical report which consists of: 
 >      1.  abstract, 
