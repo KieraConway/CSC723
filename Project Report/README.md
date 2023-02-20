@@ -9,13 +9,13 @@
 ### Rubric
 
 - write and submit the final technical report which consists of: 
-	1.  abstract, 
-	2.  introduction (describing the dataset as well), 
-	3.  related work, 
-	4.  methods, 
-	5.  results, 
-	6.  conclusion, 
-	7.  references
+<br>&emsp;1. abstract, 
+<br>&emsp;2.  introduction (describing the dataset as well), 
+<br>&emsp;3.  related work, 
+<br>&emsp;4.  methods, 
+<br>&emsp;5.  results, 
+<br>&emsp;6.  conclusion, 
+<br>&emsp;7.  references
 
 - 4 pages (including references)
 - IEEE format (US letter)
