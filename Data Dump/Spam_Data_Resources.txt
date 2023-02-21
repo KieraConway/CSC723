@@ -1,0 +1,16 @@
+Enron Spam Sources
+
+https://www2.aueb.gr/users/ion/data/enron-spam/
+
+UCI Spambase Data Set - Suggested for first time training set
+
+https://archive.ics.uci.edu/ml/datasets/spambase
+
+UCI SMS Spam data set 
+
+https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
+
+Spam assassin (Advanced)
+
+https://spamassassin.apache.org/old/publiccorpus/
+
