@@ -29,6 +29,6 @@
 
 	- [X]	Write Draft
 
-	- [ ]	Peer Review Draft, Finalize
+	- [X]	Peer Review Draft, Finalize
 	
-- [ ]  Submit 
+- [X]  Submit 
