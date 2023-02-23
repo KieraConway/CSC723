@@ -17,11 +17,11 @@
 
 - [X]  Select Topic
 
-- [ ]  Receive Topic Approval by Instructor
+- [X]  Receive Topic Approval by Instructor
 
 	- [X]	Approval Requested
 
-	- [ ]	Approval Granted
+	- [X]	Approval Granted [*somewhat*]
 	
 - [X]  Write Proposal
 
