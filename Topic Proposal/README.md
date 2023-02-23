@@ -23,11 +23,11 @@
 
 	- [ ]	Approval Granted
 	
-- [ ]  Write Proposal
+- [X]  Write Proposal
 
-	- [ ]	Create Outline
+	- [X]	Create Outline
 
-	- [ ]	Write Draft
+	- [X]	Write Draft
 
 	- [ ]	Peer Review Draft, Finalize
 	
