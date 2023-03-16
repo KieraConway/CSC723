@@ -22,11 +22,23 @@
 
 - All team members MUST submit the report
 
+### Calendar
+
+
+
 ### Tasks
+
+- [ ]  Code
+
+	- [ ]	K-Nearest Neighbors (KNN)
+	
+	- [ ]	Decision Tree 	
+
+	- [ ]	Naive Bayes
 
 - [ ]  Data Dump
 
-	- [ ]	Add Resources to 'Data Dump Folder'
+	- [ ]	Add Resources to 'Data Dump Folder' or Outline
 
 	- [ ]	Consolidate Data
 	
