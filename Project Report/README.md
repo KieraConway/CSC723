@@ -41,6 +41,8 @@
 
 - [ ]  Code
 
+	- [ ]	Find Dataset: [Spam (or) Ham](https://www.kaggle.com/datasets/arunasivapragasam/spam-or-ham)
+
 	- [ ]	K-Nearest Neighbors (KNN)
 	
 	- [ ]	Decision Tree 	
