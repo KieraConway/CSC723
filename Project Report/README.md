@@ -41,14 +41,26 @@
 
 - [ ]  Code
 
-	- [X]	Find Dataset: [Spam (or) Ham](https://www.kaggle.com/datasets/arunasivapragasam/spam-or-ham)
+	- [X]	Find Dataset
+	
+	- [ ]	Naive Bayes
+	
+		- [X]	Draft 1
+		
+		- [ ]	Final
 
 	- [ ]	K-Nearest Neighbors (KNN)
+		
+		- [X]	Draft 1
+		
+		- [ ]	Final
 	
 	- [ ]	Decision Tree 	
-
-	- [ ]	Naive Bayes
-
+	
+		- [X]	Draft 1
+		
+		- [ ]	Final
+	
 - [ ]  Data Dump
 
 	- [ ]	Add Resources to 'Data Dump Folder' or Outline
