@@ -51,13 +51,13 @@
 
 	- [ ]	K-Nearest Neighbors (KNN)
 		
-		- [X]	Draft 1
+		- [ ]	Draft 1
 		
 		- [ ]	Final
 	
 	- [ ]	Decision Tree 	
 	
-		- [X]	Draft 1
+		- [ ]	Draft 1
 		
 		- [ ]	Final
 	
