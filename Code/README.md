@@ -13,4 +13,6 @@ Code is available for download in repository, or online at the links below
 
 - [ ]	K-Nearest Neighbors (KNN)
 
+	- [X]	Draft 1 : [Kaggle](https://www.kaggle.com/code/kieraconway/csc-723-knn)
+
 - [ ]	Decision Tree 	
