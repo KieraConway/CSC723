@@ -51,7 +51,7 @@
 
 	- [ ]	K-Nearest Neighbors (KNN)
 		
-		- [ ]	Draft 1
+		- [X]	Draft 1
 		
 		- [ ]	Final
 	
