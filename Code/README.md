@@ -9,20 +9,26 @@ Code is available for download in repository, or online at the links below
 
 - [ ]	Naive Bayes
 
-	- [X]	Draft 1 : [Kaggle](https://www.kaggle.com/code/kieraconway/csc-723-naive-bayes)
-	
-	- [ ]	Final : []()
+	- [X]	Draft: [Kaggle](https://www.kaggle.com/code/kieraconway/csc-723-naive-bayes)
 
 - [ ]	K-Nearest Neighbors (KNN)
 
-	- [X]	Draft 1 : [Kaggle](https://www.kaggle.com/code/kieraconway/csc-723-knn)
-	
-	- [ ]	Final : []()
-	
+	- [X]	Draft: [Kaggle](https://www.kaggle.com/code/kieraconway/csc-723-knn)
+
 - [ ]	Decision Tree 	
 
-	- [X]	Draft 1 : [Kaggle](https://www.kaggle.com/code/kieraconway/csc-723-decision-tree-random-forest)
-		
-	- [ ]	Final : []()
+	- [X]	Draft: [Kaggle](https://www.kaggle.com/code/kieraconway/csc-723-decision-tree-random-forest)
 		
 - [ ]	Final Consolidated Version 	
+
+	- [ ]	Draft : [Kaggle](https://www.kaggle.com/kieraconway/csc-723-project-code)
+	
+		- [X]	Naive Bayes
+		
+		- [X]	Decision Tree 	
+		
+		- [ ]	K-Nearest Neighbors (KNN)
+
+		
+	- [ ]	Final : []()
+	
