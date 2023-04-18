@@ -7,15 +7,15 @@ Code is available for download in repository, or online at the links below
 
 - [X]	Dataset: [Spam (or) Ham](https://www.kaggle.com/datasets/arunasivapragasam/spam-or-ham)
 
-- [ ]	Naive Bayes
+- [X]	Naive Bayes
 
 	- [X]	Draft: [Kaggle](https://www.kaggle.com/code/kieraconway/csc-723-naive-bayes)
 
-- [ ]	K-Nearest Neighbors (KNN)
+- [X]	K-Nearest Neighbors (KNN)
 
 	- [X]	Draft: [Kaggle](https://www.kaggle.com/code/kieraconway/csc-723-knn)
 
-- [ ]	Decision Tree 	
+- [X]	Decision Tree 	
 
 	- [X]	Draft: [Kaggle](https://www.kaggle.com/code/kieraconway/csc-723-decision-tree-random-forest)
 		
@@ -27,8 +27,7 @@ Code is available for download in repository, or online at the links below
 		
 		- [X]	Decision Tree 	
 		
-		- [ ]	K-Nearest Neighbors (KNN)
+		- [X]	K-Nearest Neighbors (KNN)
 
-		
-	- [ ]	Final : []()
+		- [ ]	Final
 	

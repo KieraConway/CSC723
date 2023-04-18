@@ -43,33 +43,39 @@
 
 	- [X]	Find Dataset
 	
-	- [ ]	Naive Bayes
+	- [X]	Naive Bayes
+	
+		- [X]	Draft 1
+		
+		- [X]	Final
+
+	- [X]	K-Nearest Neighbors (KNN)
+		
+		- [X]	Draft 1
+		
+		- [X]	Final
+	
+	- [X]	Decision Tree 	
+	
+		- [X]	Draft 1
+		
+		- [X]	Final
+		
+	- [X]	Final Considated	
 	
 		- [X]	Draft 1
 		
 		- [ ]	Final
-
-	- [ ]	K-Nearest Neighbors (KNN)
-		
-		- [X]	Draft 1
-		
-		- [ ]	Final
 	
-	- [ ]	Decision Tree 	
-	
-		- [ ]	Draft 1
-		
-		- [ ]	Final
-	
-- [ ]  Data Dump
+- [X]  Data Dump
 
-	- [ ]	Add Resources to 'Data Dump Folder' or Outline
+	- [X]	Add Resources to 'Data Dump Folder' or Outline
 
-	- [ ]	Consolidate Data
+	- [X]	Consolidate Data
 	
 - [ ]  Write Report
 
-	- [ ]	Create Outline
+	- [X]	Create Outline
 
 	- [ ]	Write Draft
 
