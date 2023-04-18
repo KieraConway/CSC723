@@ -27,6 +27,8 @@
 	- [ ]	Create Outline <i>(use report outline)</i>
 
 	- [ ]	Create Powerpoint
+	
+		- *Note: Slides must have page numbers*
 
 	- [ ]	Review Powerpoint, Finalize
 	
