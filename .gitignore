@@ -1,26 +1,11 @@
-<<<<<<< Updated upstream
-Project Report/~$oject Report \[Outline\].docx
-=======
->>>>>>> Stashed changes
-Topic Proposal/~$pic Proposal \[Outline\].docx
-Data Dump/~$Notes.docx
 *.tmp
-
-Data Dump/~$sources.docx
-Topic Proposal/~$pic Proposal \[Draft1\].docx
-Topic Proposal/~$pic Proposal \[Template\].docx
-Topic Proposal/~$pic Proposal \[Draft1 - w edits\].docx
-Topic Proposal/~$pic Proposal \[Draft2 - w edits\].docx
-Topic Proposal/~$pic Proposal \[Draft3\].docx
-Topic Proposal/Final/~$pic Proposal \[Final\].docx
+*/~*.docx
+Code/code.py
 Code/scratch.py
 Code/dt_stats.txt
-Data Dump/~$taDumpNotes.docx
-scratch.txt
-Data Dump/~$tesRevised.docx
-Project Report/~$oject Outline \[Draft 3\].docx
-Project Report/~$oject Report \[Draft 1\].docx
-Project Report/analytics.txt
+Code/code_layout.txt
 Code/example_data.csv
-Data Dump/~$tro_rob.docx
-Data Dump/~$oject Report \[Draft Rob\]_RobCopy.docx
+Project Report/analytics.txt
+Project Report/scratch.docx
+scratch.txt
+bkup_git_ignore.txt
