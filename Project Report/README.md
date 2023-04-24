@@ -77,7 +77,7 @@
 
 	- [X]	Create Outline
 
-	- [ ]	Write Draft
+	- [X]	Write Draft
 
 	- [ ]	Peer Review Draft
 	
