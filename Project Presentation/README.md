@@ -16,30 +16,35 @@
 
 ### Tasks
 
-- [ ]  Data Dump
+- [X]  Data Dump
 
-	- [ ]	Add Resources to 'Data Dump Folder'
+	- [X]	Add Resources to 'Data Dump Folder'
 
-	- [ ]	Consolidate Data
+	- [X]	Consolidate Data
 	
-- [ ]  Powerpoint
+- [X]  Powerpoint
 
-	- [ ]	Create Outline <i>(use report outline)</i>
+	- [X]	Create Outline <i>(use report outline)</i>
 
-	- [ ]	Create Powerpoint
+	- [X]	Create Powerpoint
 	
 		- *Note: Slides must have page numbers*
 
-	- [ ]	Review Powerpoint, Finalize
+	- [X]	Review Powerpoint, Finalize
 	
-- [ ]  Recording
+- [X]  Recording
 
-	- [ ]	Brainstorm General Structure
+	- [X]	Brainstorm General Structure
 
-	- [ ]	Separate/ Split Sections
+	- [X]	Separate/ Split Sections
 	
-	- [ ]	Record Parts
+	- [X]	Record Parts
 
-	- [ ]	Combine, Review, Finalize
+	- [X]	Combine, Review, Finalize
 
-- [ ]  Submit 
+- [X]  Submit 
+
+
+
+CSC723_Spring2023_Project_Presentation_Slides_KIE
+CSC723_Spring2023_Project_Presentation_Recording
