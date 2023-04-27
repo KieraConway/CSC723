@@ -1,5 +1,6 @@
 *.tmp
 */~*.docx
+*/~*.pptx
 Code/code.py
 Code/scratch.py
 Code/dt_stats.txt
