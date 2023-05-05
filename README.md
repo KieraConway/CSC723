@@ -22,7 +22,7 @@
 <br><br>
 
 
-- [ ] <b> Due 04/26/23 &emsp;|&emsp; [Project Presentation](https://github.com/KieraConway/CSC723/tree/main/Project%20Presentation)<br> </b>
+- [X] <b> Due 04/26/23 &emsp;|&emsp; [Project Presentation](https://github.com/KieraConway/CSC723/tree/main/Project%20Presentation)<br> </b>
 
 > make a PowerPoint and record a presentation of it
 > 
