@@ -33,7 +33,7 @@
 <br><br>
 
 
-- [ ] <b> Due 05/05/23 &emsp;|&emsp; [Project Report](https://github.com/KieraConway/CSC723/tree/main/Project%20Report)<br> </b>
+- [X] <b> Due 05/05/23 &emsp;|&emsp; [Project Report](https://github.com/KieraConway/CSC723/tree/main/Project%20Report)<br> </b>
 
 > write and submit the final technical report which consists of: 
 >      1.  abstract, 
